@@ -1,0 +1,8 @@
+
+.nav-link:hover{
+    color: rgb(224, 145, 8);
+}
+
+.nav-link:active {
+    color: rgb(139, 13, 144);
+}
